@@ -1,0 +1,16 @@
+[
+  {
+    "Country": "Japan",
+    "CountryCode": "",
+    "Province": "",
+    "City": "",
+    "CityCode": "",
+    "Lat": "0",
+    "Lon": "0",
+    "Confirmed": 0,
+    "Deaths": 0,
+    "Recovered": 0,
+    "Active": 0,
+    "Date": "2020-01-22T00:00:00Z"
+  }
+]
